@@ -2,9 +2,9 @@
 
 This is a clone of the amazon website with basic functionality that includes:
 
-Interactive navbar
-Checkout page
-Login page
+Interactive navbar, 
+Checkout page, 
+Login page, 
 Subtotal widget in Checkout view
 
 
