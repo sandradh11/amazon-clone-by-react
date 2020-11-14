@@ -10,7 +10,7 @@ Subtotal widget in Checkout view
 
 Technology Stack:
 
-Firebase for backend and login authentication
-Create-React for boilerplate
-React Context API
+Firebase for backend and login authentication,
+Create-React for boilerplate,
+React Context API,
 React Router
